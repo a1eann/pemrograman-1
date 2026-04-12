@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "p2_raihan_alamin/src",
+        "p4_raihan_alamin/src",
+        "p5_raihan_alamin/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"],
+    "java.debug.settings.onBuildFailureProceed": true 
+}
