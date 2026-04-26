@@ -25,7 +25,7 @@ public class latihan4 {
             float Presensi = kehadiran / realisasi * 10;
             float TUGAS = tugas * 20 / 100;
             float UTS = uts * 30 / 100;
-            float UAS = uas * 30 / 100;
+            float UAS = uas * 40 / 100;
             float TOTAL = Presensi + TUGAS + UTS + UAS;
             
             System.out.println("============");
